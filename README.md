@@ -53,9 +53,9 @@ npx expo start -c
 - Deux onglets en bas pour passer d'un écran à l'autre
 
 <p>
-  <img src="screenshots/1.jpeg" alt="Écran Login" width="280">
+  <img src="ScreenShots/1.jpeg" alt="Écran Login" width="280">
   &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/2.jpeg" alt="Écran Welcome" width="280">
+  <img src="ScreenShots/2.jpeg" alt="Écran Welcome" width="280">
 </p>
 
 <p><em>À gauche : l'écran Login. À droite : l'écran Welcome.</em></p>
